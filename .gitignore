@@ -24,4 +24,4 @@ buck-out/
 *.keystore
 
 .history
-      
+.vscode
