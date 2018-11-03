@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-sendsms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native library for sending SMS programmatically - only android supported for now.",
   "main": "index.js",
   "scripts": {
